@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ebb09df9-af3b-4d4b-b77a-9d253f7866f0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="128" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0000000000000049" />
+      <entry key="S10" value="1.0000001658818174" />
+      <entry key="S30" value="1.0180275543661605" />
+      <entry key="S60" value="1.3286077505243001" />
+      <entry key="M2" value="2.403852540527174" />
+      <entry key="M5" value="4.355805908582914" />
+      <entry key="M10" value="5.487146769772865" />
+      <entry key="M15" value="5.943445628944186" />
+      <entry key="M30" value="6.446156119980372" />
+      <entry key="H1" value="6.716373057534418" />
+      <entry key="H2" value="6.856469431458745" />
+      <entry key="H4" value="6.927800226672121" />
+      <entry key="D1" value="6.987905910976701" />
+      <entry key="W1" value="6.998270778303142" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.5406046278923655E-7" />
+      <entry key="MS500" value="0.0434048479926597" />
+      <entry key="S2" value="0.4564409072265594" />
+      <entry key="S5" value="0.7307247611122971" />
+      <entry key="S10" value="0.8548245686758519" />
+      <entry key="S30" value="0.9670447298956734" />
+      <entry key="S60" value="1.3024186939249316" />
+      <entry key="M2" value="2.390020373862378" />
+      <entry key="M5" value="4.349768239136936" />
+      <entry key="M10" value="5.483982672452409" />
+      <entry key="M15" value="5.941297188137362" />
+      <entry key="M30" value="6.445060390516935" />
+      <entry key="H1" value="6.71581941098677" />
+      <entry key="H2" value="6.8561911091810925" />
+      <entry key="H4" value="6.927660683893526" />
+      <entry key="D1" value="6.987882600247424" />
+      <entry key="W1" value="6.9982674468785095" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3GW9skSx6oufKKYRHAS3Bi5MYpl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.02_clean_common_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_exploratory_analysis.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_prepare_ml_dataset.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_train_test_split.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05_train_models.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06_evaluate_best_model.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07_feature_importance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08_correlation_matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09_prediction_examples.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10_summary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10_summery.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.merger.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reader.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/DIPU/POLITO/Daytime Radiative Cooling Thesis/cooling_project&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sakha\Downloads\drive-download-20260712T162237Z-2-001\cooling_project" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cooling_project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50341a9f1f9c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.26222.68" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebb09df9-af3b-4d4b-b77a-9d253f7866f0" name="Changes" comment="" />
+      <created>1784076666768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1784076666768</updated>
+      <workItem from="1784076668222" duration="6450000" />
+      <workItem from="1784084685534" duration="1018000" />
+      <workItem from="1784085798949" duration="47000" />
+      <workItem from="1784085867030" duration="361000" />
+      <workItem from="1784086267073" duration="2714000" />
+      <workItem from="1784293532882" duration="62000" />
+      <workItem from="1784293629066" duration="1122000" />
+      <workItem from="1784844123298" duration="177000" />
+      <workItem from="1784844823986" duration="5354000" />
+      <workItem from="1784850298692" duration="448000" />
+      <workItem from="1784850789835" duration="523000" />
+      <workItem from="1784851361515" duration="294000" />
+      <workItem from="1784907081771" duration="51000" />
+      <workItem from="1785087952128" duration="11626000" />
+      <workItem from="1785195190936" duration="2025000" />
+      <workItem from="1785758342006" duration="1616000" />
+      <workItem from="1785759997815" duration="2981000" />
+      <workItem from="1786400611145" duration="19248000" />
+      <workItem from="1786711754933" duration="2442000" />
+      <workItem from="1787001713236" duration="767000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/cooling_project$08_correlation_matrix.coverage" NAME="08_correlation_matrix Coverage Results" MODIFIED="1785187411824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML" />
+    <SUITE FILE_PATH="coverage/cooling_project$reader.coverage" NAME="reader Coverage Results" MODIFIED="1784081734321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cooling_project$03_exploratory_analysis.coverage" NAME="03_exploratory_analysis Coverage Results" MODIFIED="1784846507173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML" />
+    <SUITE FILE_PATH="coverage/cooling_project$10_summery.coverage" NAME="10_summery Coverage Results" MODIFIED="1785189963927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML" />
+    <SUITE FILE_PATH="coverage/03_prepare_ml_dataset_py$10_summary.coverage" NAME="10_summary Coverage Results" MODIFIED="1786589357928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML" />
+    <SUITE FILE_PATH="coverage/cooling_project$merger.coverage" NAME="merger Coverage Results" MODIFIED="1784081943237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cooling_project$02_clean_common_data.coverage" NAME="02_clean_common_data Coverage Results" MODIFIED="1784846248808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML" />
+    <SUITE FILE_PATH="coverage/03_prepare_ml_dataset_py$08_correlation_matrix.coverage" NAME="08_correlation_matrix Coverage Results" MODIFIED="1786588378085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML" />
+    <SUITE FILE_PATH="coverage/cooling_project$09_prediction_examples.coverage" NAME="09_prediction_examples Coverage Results" MODIFIED="1785189840100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML" />
+    <SUITE FILE_PATH="coverage/cooling_project$03_prepare_ml_dataset.coverage" NAME="03_prepare_ml_dataset Coverage Results" MODIFIED="1784846671042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML" />
+    <SUITE FILE_PATH="coverage/cooling_project$06_evaluate_best_model.coverage" NAME="06_evaluate_best_model Coverage Results" MODIFIED="1785189549839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML" />
+    <SUITE FILE_PATH="coverage/cooling_project$07_feature_importance.coverage" NAME="07_feature_importance Coverage Results" MODIFIED="1785187135488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML" />
+    <SUITE FILE_PATH="coverage/03_prepare_ml_dataset_py$reader.coverage" NAME="reader Coverage Results" MODIFIED="1786582041603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/03_prepare_ml_dataset_py$main.coverage" NAME="main Coverage Results" MODIFIED="1786582104052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/03_prepare_ml_dataset_py$04_train_test_split.coverage" NAME="04_train_test_split Coverage Results" MODIFIED="1786712701916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML" />
+    <SUITE FILE_PATH="coverage/03_prepare_ml_dataset_py$02_clean_common_data.coverage" NAME="02_clean_common_data Coverage Results" MODIFIED="1786713327503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML" />
+    <SUITE FILE_PATH="coverage/cooling_project$04_train_test_split.coverage" NAME="04_train_test_split Coverage Results" MODIFIED="1785089655701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML" />
+    <SUITE FILE_PATH="coverage/03_prepare_ml_dataset_py$05_train_models.coverage" NAME="05_train_models Coverage Results" MODIFIED="1787001756284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML" />
+    <SUITE FILE_PATH="coverage/03_prepare_ml_dataset_py$10_summery.coverage" NAME="10_summery Coverage Results" MODIFIED="1786410085870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML" />
+    <SUITE FILE_PATH="coverage/cooling_project$main.coverage" NAME="main Coverage Results" MODIFIED="1784845726777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/03_prepare_ml_dataset_py$06_evaluate_best_model.coverage" NAME="06_evaluate_best_model Coverage Results" MODIFIED="1786588237127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML" />
+    <SUITE FILE_PATH="coverage/03_prepare_ml_dataset_py$merger.coverage" NAME="merger Coverage Results" MODIFIED="1786582077075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/03_prepare_ml_dataset_py$07_feature_importance.coverage" NAME="07_feature_importance Coverage Results" MODIFIED="1786588749024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML" />
+    <SUITE FILE_PATH="coverage/03_prepare_ml_dataset_py$03_prepare_ml_dataset.coverage" NAME="03_prepare_ml_dataset Coverage Results" MODIFIED="1786713374871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML" />
+    <SUITE FILE_PATH="coverage/cooling_project$05_train_models.coverage" NAME="05_train_models Coverage Results" MODIFIED="1785109643042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML" />
+    <SUITE FILE_PATH="coverage/03_prepare_ml_dataset_py$09_prediction_examples.coverage" NAME="09_prediction_examples Coverage Results" MODIFIED="1786588608231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML" />
+  </component>
+</project>
