@@ -1,0 +1,12 @@
+# Tested numerical environment: CPython 3.11.
+numpy==1.26.4
+pandas==2.1.4
+scipy==1.16.1
+matplotlib==3.10.5
+scikit-learn==1.5.2
+
+# Notebook execution and validation.
+ipython==9.4.0
+ipykernel==6.23.1
+nbformat==5.8.0
+nbclient==0.7.4

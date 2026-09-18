@@ -1,0 +1,9 @@
+*.md text eol=lf
+*.py text eol=lf
+*.txt text eol=lf
+*.json text eol=lf
+*.ipynb text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+# Preserve the exact source bytes used by the executed notebook and SHA256 manifest.
+*.csv -text whitespace=cr-at-eol

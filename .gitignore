@@ -1,0 +1,32 @@
+# Local environments and caches
+.venv/
+.venv*/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.cache/
+
+# Editor and assistant configuration
+.idea/
+.vscode/
+.agents/
+.claude/
+.codex/
+.codebase-memory/
+
+# Local credentials and private reference material
+.env
+.env.*
+*.pem
+*.key
+prof/
+
+# Temporary and regenerated files; figures belong in the notebook
+tmp/
+outputs/
+processed/figures*/
+processed/model_input*.csv
+*.log
+.DS_Store
+Thumbs.db

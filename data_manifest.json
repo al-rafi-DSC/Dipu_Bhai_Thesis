@@ -1,0 +1,112 @@
+{
+  "schema_version": 1,
+  "files": [
+    {
+      "path": "processed/merged_dataset_104957.csv",
+      "rows": 104957,
+      "columns": [
+        "timestamp",
+        "Q_net_raw",
+        "Q_net_voltage_V",
+        "Q_net",
+        "PT100_resistance_ohm",
+        "T_pt100_C",
+        "Q_raw_unit",
+        "T_amb",
+        "T_dew_C",
+        "RH",
+        "pressure_hPa",
+        "v",
+        "wind_dir_deg",
+        "G",
+        "T_sky",
+        "T_ir_process_C",
+        "T_ir_internal_C",
+        "T_ir_box_C",
+        "emissivity"
+      ],
+      "first_recorded_timestamp": "2026-04-17 14:53:44",
+      "last_recorded_timestamp": "2026-07-03 07:59:16",
+      "timezone": "not supplied",
+      "bytes": 14800671,
+      "sha256": "abedc40fb470cb793e3590b4d1d6693f5010bd2ffaa9c23a46ea0a0a36e9c337"
+    },
+    {
+      "path": "processed/merged_raft.csv",
+      "rows": 35132,
+      "columns": [
+        "HEAT_FLUX_V",
+        "PT100_VENT_OHM",
+        "DATE",
+        "TIME",
+        "SOURCE_FILE"
+      ],
+      "first_recorded_timestamp": "2026-04-17 14:53:44",
+      "last_recorded_timestamp": "2026-05-15 12:02:32",
+      "timezone": "not supplied",
+      "bytes": 2968563,
+      "sha256": "6fb1a55e183d4c03a06c6427a776e7f6b55f84983bd85b203416fb5af762f526"
+    },
+    {
+      "path": "processed/merged_meteo.csv",
+      "rows": 35327,
+      "columns": [
+        "TIME",
+        "TEMP",
+        "DEWPOINT",
+        "RH",
+        "PRESS",
+        "SPEED",
+        "DIR",
+        "SOLARRAD",
+        "CHECKSUM",
+        "SOURCE_FILE"
+      ],
+      "first_recorded_timestamp": "2026-04-17 14:54:24",
+      "last_recorded_timestamp": "2026-05-15 12:03:46",
+      "timezone": "not supplied",
+      "bytes": 3879621,
+      "sha256": "fc8057c64cc3b1396d8ea9f22598d4ce2dc96650314401edcf072d9497035b41"
+    },
+    {
+      "path": "processed/merged_ir.csv",
+      "rows": 33890,
+      "columns": [
+        "RECORD_TYPE",
+        "TIMESTAMP",
+        "TEMPERATURE_C",
+        "ELAPSED_TIME",
+        "TPROC",
+        "TINT",
+        "TBOX",
+        "TAVG",
+        "T_2C",
+        "T_1C",
+        "ATTENUATION",
+        "EPS",
+        "VALUE",
+        "VCC",
+        "TAMB",
+        "TACT",
+        "COMPRESSION_IDX",
+        "TIME_ABSOLUTE",
+        "IMAGE_IDX",
+        "IMAGE_VALUE",
+        "SESSION_DATE",
+        "SESSION_TIME",
+        "UNIT",
+        "RESOLUTION",
+        "VALUES_COUNT",
+        "SNAPSHOT_TRIGGER",
+        "MEASUREMENT_TRIGGER",
+        "SOURCE_FILES",
+        "SOURCE_FILE_COUNT"
+      ],
+      "first_recorded_timestamp": "2026-04-20 09:36:08.788",
+      "last_recorded_timestamp": "2026-05-15 12:03:23",
+      "timezone": "not supplied",
+      "bytes": 6344151,
+      "sha256": "81a249802d48274a28b057c626f386853faa289a92cbc19bb113eaff5986ba7e"
+    }
+  ]
+}
