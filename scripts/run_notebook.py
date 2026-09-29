@@ -1,4 +1,4 @@
-"""Execute main_5.ipynb with this interpreter and save all figures in the notebook."""
+"""Execute main.ipynb with this interpreter and save all figures in the notebook."""
 
 from __future__ import annotations
 
@@ -13,19 +13,19 @@ import tempfile
 import nbformat
 from nbclient import NotebookClient
 
-from validate_submission import ROOT, verify_inputs, verify_notebook
+from validate_submission import ROOT, verify_inputs, verify_notebook, verify_artifacts
 
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('--output', type=Path, default=ROOT / 'code/main_5.ipynb',
+    parser.add_argument('--output', type=Path, default=ROOT / 'code/main.ipynb',
                         help='Notebook output path; the default updates the saved analysis.')
     parser.add_argument('--timeout', type=int, default=600, help='Maximum seconds per cell.')
     args = parser.parse_args()
     if args.timeout <= 0:
         parser.error('--timeout must be positive')
     verify_inputs()
-    notebook = nbformat.read(ROOT / 'code/main_5.ipynb', as_version=4)
+    notebook = nbformat.read(ROOT / 'code/main.ipynb', as_version=4)
     output_path = args.output.resolve()
 
     def report_progress(cell, cell_index):
@@ -73,6 +73,7 @@ def main() -> None:
     }
     images = verify_notebook(notebook)
     verify_inputs()
+    verify_artifacts()
     output_path.parent.mkdir(parents=True, exist_ok=True)
     temporary_path = None
     try:

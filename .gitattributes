@@ -7,3 +7,4 @@
 .gitattributes text eol=lf
 # Preserve the exact source bytes used by the executed notebook and SHA256 manifest.
 *.csv -text whitespace=cr-at-eol
+references/*.m -text

@@ -1,0 +1,50 @@
+{
+  "scope": "native_exports",
+  "grid": "3min",
+  "moving_average_samples": 20,
+  "moving_average": "Centered: 10 previous, current, 9 following; shrink within uninterrupted valid segments",
+  "max_native_gap": "0 days 00:03:00",
+  "interpolation": false,
+  "source_units": {
+    "Q_net": "W/m^2 (recorded sign)",
+    "T_amb": "deg C",
+    "RH": "%",
+    "G": "W/m^2",
+    "v": "m/s",
+    "T_sky": "deg C"
+  },
+  "rows": 11304,
+  "grid_slots": 12047,
+  "excluded_bins": 743,
+  "first_timestamp": "2026-04-20 09:45:00",
+  "last_timestamp": "2026-05-15 11:57:00",
+  "common_acquisition_start": "2026-04-20 09:36:08.788000",
+  "common_acquisition_end": "2026-05-15 12:02:32",
+  "seed": 42,
+  "validation_fraction": 0.2,
+  "chronological_gap": "1 days 00:00:00",
+  "chronological_source_support_disjoint": true,
+  "random_split_support_overlap": "Expected; shuffled score is reconstruction only",
+  "source_hashes": {
+    "RAFT export": "6fb1a55e183d4c03a06c6427a776e7f6b55f84983bd85b203416fb5af762f526",
+    "Weather export": "fc8057c64cc3b1396d8ea9f22598d4ce2dc96650314401edcf072d9497035b41",
+    "Sky export": "81a249802d48274a28b057c626f386853faa289a92cbc19bb113eaff5986ba7e",
+    "Full merged table": "abedc40fb470cb793e3590b4d1d6693f5010bd2ffaa9c23a46ea0a0a36e9c337"
+  },
+  "matlab_sha256": "29b956673a646c769a964b8c525639834d5cac2892d3968582e1298d59083407",
+  "versions": {
+    "Python": "3.11.3",
+    "pandas": "2.1.4",
+    "NumPy": "1.26.4",
+    "Matplotlib": "3.10.5",
+    "scikit-learn": "1.5.2"
+  },
+  "artifacts": {
+    "processed/final_processed_dataset.csv": "9b69347508e58fde0977401a082e84d9eb6f107e0ffea17114b8c138e8c82b34",
+    "results/bin_audit.csv": "650c8498130d089c8589167fff1324e64ecd3dd984d2cb05cb98784dbce24851",
+    "results/metrics.csv": "bf7b8a6bb837ee086ba1cdcf8f4d903408edf3c89b9397cc9167239d0672eb88",
+    "results/native_gaps.csv": "9b131a8e9a8c07bf836dc1ebc65451dee6f26b8d6ad3d3202dd0a4be31ffaacd",
+    "results/split_assignments.csv": "ec02f6ff7887dc97d02bfd6acb62c6b8127e199093c39504ae4016ac7069b48f",
+    "results/validation_predictions.csv": "96eca5cdee44d24b4ca2299ddbe5ae0de724f2f0ef27e55211de7b99029d15cc"
+  }
+}
